@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="hour_format">%1$s %2$s</string>
+</resources>
